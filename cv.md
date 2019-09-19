@@ -29,6 +29,7 @@ Machine learning for production time estimation [https://costpred.herokuapp.com/
 * Online courses ([Udemy](https://www.udemy.com/), [Coursera](https://www.coursera.org/))
 * Books/blogs/tutorials ([Medium](https://medium.com/), [Habr](https://habr.com/ru/) etc.)
 * A lot of [Stackoverflow](https://stackoverflow.com/)
+
 ## ENGLISH
 **[Upper-intermediate](https://www.cambridgeenglish.org/test-your-english/general-english/)**
 
