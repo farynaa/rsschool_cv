@@ -22,6 +22,7 @@ Linux/bash, Git, SQL
 [https://github.com/farynaa](https://github.com/farynaa) 
 ## EXPERIENCE
 Neural network for outcome predictions of esports events [DOTAIX](https://dotaix.xyz)
+
 Machine learning for production time estimation [https://costpred.herokuapp.com/](https://costpred.herokuapp.com/)
 ## EDUCATION
 * Technical (University)
