@@ -30,4 +30,5 @@ Machine learning for production time estimation [https://costpred.herokuapp.com/
 * A lot of [Stackoverflow](https://stackoverflow.com/)
 ## ENGLISH
 **[Upper-intermediate](https://www.cambridgeenglish.org/test-your-english/general-english/)**
+
 Good technical language skills. Do understand what native speaker is trying to explain. Can also speak english [from my heart](https://www.youtube.com/watch?v=SURGrWNK4-4)
