@@ -10,7 +10,7 @@
 Junior destiny developer
 > Things change. They always do, it's one of the things of nature. Most people are afraid of change, but if you look at it as something you can always count on, then it can be a comfort.
 
-[Robert Kincaid]([https://en.wikipedia.org/wiki/The_Bridges_of_Madison_County_(film)](https://en.wikipedia.org/wiki/The_Bridges_of_Madison_County_(film)))
+[(c) Robert Kincaid]([https://en.wikipedia.org/wiki/The_Bridges_of_Madison_County_(film)](https://en.wikipedia.org/wiki/The_Bridges_of_Madison_County_(film))
 ## SKILLS
 #### Python
 Numpy, skicit-learn, tensorflow, flask
