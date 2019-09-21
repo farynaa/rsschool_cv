@@ -1,12 +1,56 @@
-
 .container {
-	border: "1px solid black";
-	background: aquamarine;
 	margin: 0 auto;
-	max-width: 1024px;
-
+	max-width: 500px;
 }
 
-.section {
-	
+section {
+	padding: 10px 50px;
+}
+
+h2 {
+	border-bottom: 3px solid black;
+	padding-left: 20px;
+	padding-bottom: 5px;
+}
+
+h1 {
+	text-align: center;
+}
+
+footer,
+header {
+	text-align: center;
+	padding: 10px;
+}
+
+.contacts {
+	background: aquamarine;
+}
+
+.summary {
+	background: gold;
+}
+
+.skills {
+	background: plum;
+}
+
+.codeexamples {
+	background: lightseagreen;
+}
+
+.experience {
+	background: lightpink;
+}
+
+section:hover {
+	filter: brightness(85%);
+}
+
+.education {
+	background: palegreen;
+}
+
+.english {
+	background: powderblue;
 }
