@@ -1,0 +1,69 @@
+
+section {
+	padding: 10px 50px;
+}
+
+section:not(.personal):hover {
+	filter: brightness(85%);
+}
+
+h2 {
+	border-bottom: 3px solid black;
+	padding-left: 20px;
+	padding-bottom: 5px;
+}
+
+h1 {
+	text-align: center;
+}
+
+footer,
+header {
+	text-align: center;
+	padding: 10px;
+	font-size: 22px;
+	text-decoration: underline;
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 500px;
+}
+
+
+.image {
+	display: block;
+	margin: auto auto;
+}
+
+.personal {
+	border: 3px solid black;
+}
+
+.contacts {
+	background: aquamarine;
+}
+
+.summary {
+	background: gold;
+}
+
+.skills {
+	background: plum;
+}
+
+.code-examples {
+	background: lightseagreen;
+}
+
+.experience {
+	background: lightpink;
+}
+
+.education {
+	background: palegreen;
+}
+
+.english {
+	background: powderblue;
+}
