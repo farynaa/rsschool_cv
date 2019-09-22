@@ -1,13 +1,9 @@
-.container {
-	margin: 0 auto;
-	max-width: 500px;
-}
 
 section {
 	padding: 10px 50px;
 }
 
-section:hover {
+section:not(.personal):hover {
 	filter: brightness(85%);
 }
 
@@ -25,16 +21,19 @@ footer,
 header {
 	text-align: center;
 	padding: 10px;
+	font-size: 22px;
+	text-decoration: underline;
 }
+
+.container {
+	margin: 0 auto;
+	max-width: 500px;
+}
+
 
 .image {
 	display: block;
 	margin: auto auto;
-}
-
-.image:hover {
-	brightn
-
 }
 
 .personal {
@@ -53,7 +52,7 @@ header {
 	background: plum;
 }
 
-.codeexamples {
+.code-examples {
 	background: lightseagreen;
 }
 
