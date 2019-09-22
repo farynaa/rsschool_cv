@@ -7,6 +7,10 @@ section {
 	padding: 10px 50px;
 }
 
+section:hover {
+	filter: brightness(85%);
+}
+
 h2 {
 	border-bottom: 3px solid black;
 	padding-left: 20px;
@@ -21,6 +25,20 @@ footer,
 header {
 	text-align: center;
 	padding: 10px;
+}
+
+.image {
+	display: block;
+	margin: auto auto;
+}
+
+.image:hover {
+	brightn
+
+}
+
+.personal {
+	border: 3px solid black;
 }
 
 .contacts {
@@ -41,10 +59,6 @@ header {
 
 .experience {
 	background: lightpink;
-}
-
-section:hover {
-	filter: brightness(85%);
 }
 
 .education {
